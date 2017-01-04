@@ -8,5 +8,6 @@ public class Demo {
 		System.out.println("xiejh");
 		Date date=new Date();
 		long l= date.getTime();
+		System.out.println(l);
 	}
 }
