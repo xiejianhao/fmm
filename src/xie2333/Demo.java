@@ -7,6 +7,6 @@ public class Demo {
 		System.out.println("11111");
 		System.out.println("xiejh");
 		Date date=new Date();
-		date.getTime();
+		long l= date.getTime();
 	}
 }
