@@ -8,7 +8,7 @@ public class Demo {
 		System.out.println("xiejh");
 		Date date=new Date();
 		long l= date.getTime();
-		System.out.println(l);
+		System.out.println("谢建皓");
 		System.out.println("222222");
 		System.out.println("11111");
 	}
