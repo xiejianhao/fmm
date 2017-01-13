@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Test implements Serializable {
 
 	/**
-	 * sdfasdfasdfasd
+	 * 测试代码哈哈哈
 	 */
 	private static final long serialVersionUID = 1L;
 	public final String name="混世魔王";
