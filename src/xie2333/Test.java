@@ -11,6 +11,7 @@ public class Test implements Serializable {
 	public final String name="混世魔王";
 	public static void main(String[] args) {
 		System.out.println("1111111111");
+		System.out.println("11111222211111");
 	}
 
 }
